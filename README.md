@@ -2,7 +2,7 @@
 #### A Flutter Enthusiast
 
 
-I'm from Indonesia and I am Computer Science student in IPB University. I'm really into mobile development using Flutter as the framework and Dart as the programming language.
+I'm from Indonesia and I am Computer Science student at IPB University. I'm really into mobile development using Flutter as the framework and Dart as the programming language.
 
 Skills: Dart / Flutter
 
