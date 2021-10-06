@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mas Rayfa
 #### A Flutter Enthusiast
-![A Flutter Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Flutter Enthusiast]
 
 I'm from Indonesia and I am Computer Science student in IPB University. I'm really into mobile development using Flutter as the framework and Dart as the programming language.
 
