@@ -5,9 +5,9 @@
 
 I'm from Indonesia and I am Computer Science student at IPB University. I'm really into web development, since the technology changing rapidly and it excites me a lot :D I'm Also learning typescript since it's a fun learning experience to build a web project using it.
 
-Skills: Golang, Nextjs, Reactjs, Typescript
+Skills: Golang, Rust, Nextjs, Reactjs, Typescript
 
-- 🌱 I’m currently focusing on Golang
+- 🌱 I’m currently focusing on Golang and Rust
 - 📫 How to reach me: rayfanandan@gmail.com 
 
 
